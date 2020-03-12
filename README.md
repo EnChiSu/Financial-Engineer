@@ -1,4 +1,4 @@
-# Financial-Engineer
+# Financial-Engineering
 
 This is my Financial Engineer class note in the second semester of 2019 at NTU.
 
