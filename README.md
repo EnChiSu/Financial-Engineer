@@ -7,13 +7,7 @@ My name is En-Chi Su (蘇恩祺). You can also call me Oggie(sounds like En-Chi)
 <br />
 This is the first time I take finance related courses. If there is any suggestion you would like to give, please don't hesitate to contact me through my email r07741074@ntu.edu.tw. Thank you.
 
-
-This is a regular paragraph.
-
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
-
-This is another regular paragraph.
+# Homework 1:
+|學習歷程|流程圖|程式碼/運作結果|
+|-------|------|-------------|
+|123|123|123|
