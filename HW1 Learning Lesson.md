@@ -1,4 +1,4 @@
-# HW1 Learning Lesson:
+# HW1 Lesson Learn:
 
 1. "accumulation" can't be added up by accumulation itself.
 The obstacle I faced is during the **step 5** (see **Section 2**) I try to compute the third column *(本金利息累計(元))* through adding up accumulation itself from the first period. However, the accumulation should be calculated by adding up each period's "total" return, not each period's "accumulative" return. To solve the problem I create a new variable to record each period's "total" return. Using that variable I can add up from the first period to calculate the "accumulative" return for each period.<br>
