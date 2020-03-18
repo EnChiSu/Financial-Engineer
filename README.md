@@ -15,6 +15,7 @@ I present HW1 with three files:
 * The third file is "HW1_Package code.ipynb" which I package all the code in each step into a function which you can simply execute and it would demonstrate similar results as https://ttc.scu.org.tw/memdca1.htm. <br />
 <br />
 You can also click the link in the table below to read each file.
+<br />
 
 |學習歷程|流程圖|程式碼/運作結果|
 |-------|------|-------------|
