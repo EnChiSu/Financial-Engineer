@@ -10,4 +10,4 @@ This is the first time I take finance related courses. If there is any suggestio
 # Homework 1:
 |學習歷程|流程圖|程式碼/運作結果|
 |-------|------|-------------|
-|123|123|123|
+|[Lesson Learn](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW1%20Learning%20Lesson.md)|123|123|
