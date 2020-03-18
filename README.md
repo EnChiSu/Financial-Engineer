@@ -18,4 +18,4 @@ Third, I will discuss lesson learn from this week's HW.
 
 |學習歷程|流程圖|程式碼/運作結果|
 |-------|------|-------------|
-|[Lesson Learn](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW1%20Learning%20Lesson.md)|123|123|
+|[Lesson Learn](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW1%20Learning%20Lesson.md)|[Work flow/Explanation](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW1_Work%20flow.ipynb)|[Package Code/Result](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW1_Package%20code.ipynb)|
