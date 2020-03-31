@@ -13,7 +13,7 @@ There are several leraning lessons from this week's HW.<br>
 4. 如果要print一串文字和某個你算出來的變數，可以使用.format()的方式，展示如下：<br>
 ```` print("The YTM of the bond is: {}.".format(ytm))````<br>
 
-5. 我在寫迴圈使用range()產生一串數列的時候，range當中要輸入的數值要是整數，python不接受浮點數。<br>
+5.我在寫迴圈使用range()產生一串數列的時候，range當中要輸入的數值要是整數，python不接受浮點數。<br>
 ```` for i in range(int(periods)): ````<br>
 
 
