@@ -6,10 +6,10 @@ There are several leraning lessons from this week's HW.<br>
 
 2. 在財金的領域如果利率要以"年"作為單位表示(即使這個債券為半年到期的債券)。
 
-3. 如果要print一串文字和某個你算出來的變數，可以使用.formate的方式，展示如下:
+3. 如果要print一串文字和某個你算出來的變數，可以使用.formate的方式，展示如下:<br>
 ```` print("The YTM of the bond is: {}.".format(ytm))````<br>
 
-4. 我在寫迴圈使用range()產生一串數列的時候，range當中要輸入的數值要是整數，python不接受浮點數。
+4. 我在寫迴圈使用range()產生一串數列的時候，range當中要輸入的數值要是整數，python不接受浮點數。<br>
 ```` for i in range(int(periods)): ````<br>
 
 
