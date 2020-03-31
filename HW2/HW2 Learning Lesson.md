@@ -1,6 +1,6 @@
 # HW2 Lesson Learn:
 
-There are two leraning lessons from this week's HW.<br>
+There are several leraning lessons from this week's HW.<br>
 1. 當在計算債券每一期的spot rate的時候，只需要想像他是多個零息債券所組成
 我一開始在思考的時候試著要從該債券每一期當下結算的YTM下手，但如此計算上會變得非常複雜，因為除了第一年的YTM等於spot rate之外，剩下的都必須考慮複利的狀況。改用零息債券組合來思考債券較容易了解與計算。<br>
 
