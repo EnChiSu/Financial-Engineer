@@ -1,6 +1,6 @@
 # Financial-Engineering
 
-This is my Financial Engineering class notes in the second semester of 2019 at NTU.
+This is the repository of my Financial Engineering class notes in the second semester of 2019 at NTU.
 
 # Personal Information
 My name is En-Chi Su (蘇恩祺). You can also call me Oggie(sounds like En-Chi). Currently, I study master's in Business Administration at National Taiwan University. I've five-year experiences using R, and half-year experiences in Python. <br />
