@@ -8,6 +8,6 @@ I present HW2 with three files:
 You can also click the link in the table below to read each file.
 <br />
 
-|學習歷程|撰寫流程|程式碼/運作結果|
+|學習歷程|撰寫流程|打包程式碼/運作結果|
 |-------|------|-------------|
 |[Lesson Learn](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW2/HW2%20Learning%20Lesson.md)|[Work Flow/Explanation](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW2/HW2_Work%20flow.ipynb)|[Code Package/Result](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW2/HW2_Package%20code.ipynb)|
