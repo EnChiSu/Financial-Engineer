@@ -5,7 +5,7 @@ I present HW2 with three files:
 * The second file is "HW2_Work flow.ipynb" which I demonstrate and explain work flow step by step.
 * The third file is "HW2_Package code.ipynb" which I package all the code in the work flow file into a function. You can simply download and execute it. <br />
 
-You can also click the link in the table below to read each file.
+You can also click links in the table below to read each file.
 <br />
 
 |學習歷程|撰寫流程|打包程式碼/運作結果|
