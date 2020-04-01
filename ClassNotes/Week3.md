@@ -6,6 +6,10 @@
 * 簡述：<br />
 同一種債券在不同時間點發行(所以到期日不同)，因為經歷的時間不同(經歷不同的匯率波動以及存在不同的到期日)，所以從債券售價反推回算得到的YTM會不同，這些不同的YTM繪製出來的曲線就是yield curve。
 
+* 換算公式：
+![](https://drive.google.com/uc?export=view&id=1vFkOsPnXG98C4pTG00T1UCNIkdZGMfBw)
+
+
 * 功能：
    1. PV、C、F與利率r間的數學公式，有兩種用法：<br />
    若給定PV、C與F，求出的利率r就是YTM，可用來與自己心中預期的報酬率比較，看是否值得進場。<br />
@@ -17,11 +21,29 @@
 無法作為債券不同時間點下的比較基準，因為YTM直接計算到合約到期日，但有時你衡量的只想從當中的某一期到另一期的獲利率，因而就需要Spot rate & Forward rate。<br />
 
 2. Spot rate <br />
+* 簡述：<br />
+某一期的Spot rate即可以想像為從本期開始計算到該期的零息債券的YTM。<br />
+
+* 換算公式：
+![](https://drive.google.com/uc?export=view&id=1kd4CDKyfbo88JL5pUO1cSKiTGqo7xbIK)
 
 
+
+* 功能：
+   使能夠將相同或不同債券在有不同到期日的報酬率進行比較。<br />
 
 
 3. Forward rate <br />
+* 簡述：<br />
+站在現在評估未來某一期到另一期的「單利」。
 
+* 換算公式：
+![](https://drive.google.com/uc?export=view&id=1Dr2nNaxQxMuxo1QiyG66H8LnuE2DxOcj)
+
+
+
+* 功能：
+   使能夠將相同或不同債券在不同時間點起始、結算點下的報酬率進行比較。<br />
+   例如：第一期到第二期forward rate較第三期到第四期的高，表市場對近期展望樂觀(因為市場展望樂觀-->大家拋售債券，債券變便宜-->單利提高)。
 
 
