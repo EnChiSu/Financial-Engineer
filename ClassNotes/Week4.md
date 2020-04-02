@@ -29,14 +29,14 @@
 
 2. 投資組合
    1. 買進Straddle(跨式部位) vs 買進Strangle(勒式部位) --> 都用在預期市場大漲大跌 
-   |               | 買進Straddle(跨式部位) | 買進Strangle(勒式部位) |
+   | 投資策略 | 買進Straddle(跨式部位) | 買進Strangle(勒式部位) |
    |:-------------:|:-------------:|:-------------:|
    | 報酬線|![](https://drive.google.com/uc?export=view&id=1jAGbWBcHhiHPJxV5lABnH0CRPXQelvkZ)|![](https://drive.google.com/uc?export=view&id=18eajlNiLNB8eLGY8azBzOb4vYBhcJ6Up)
    | 使用時機 |  市場大漲大跌 | 市場大漲大跌 |
    | 差異 | 買權賣權買在履約價相同處 | 買權賣權買在履約價不相同處 |
    
    2. Strangle(勒式部位)
-   |               | 賣出Straddle(跨式部位) | 賣出Strangle(勒式部位) |
+   | 投資策略 | 賣出Straddle(跨式部位) | 賣出Strangle(勒式部位) |
    |:-------------:|:-------------:|:-------------:|
    | 報酬線|![](https://drive.google.com/uc?export=view&id=19s90BK_bV9jBF_-NoS-1PVyl3-kYAIvf)|![](https://drive.google.com/uc?export=view&id=1Ehe9Ex7A7MSkGgLtEAdLJZhIxIhQG1Ft)
    | 使用時機 |  市場波動不大 | 市場波動不大 |
