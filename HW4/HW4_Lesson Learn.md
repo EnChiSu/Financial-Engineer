@@ -7,8 +7,10 @@
 <img src="https://drive.google.com/uc?export=view&id=1F81cIk24hf4YJUuf4tyU3iQOsiSPxqmN"  width="800" height="280">
 而維基百科在常態分配頁面當中cdf的表時則是如下
 <img src="https://drive.google.com/uc?export=view&id=1yg4iSjg6xhVfwMKDvHKi65HPCmyykwUe"  width="800" height="150">
-當中的erf即為error function，藉此簡化函數的表現形式，而error function的定義如下
+當中的erf即為error function，而error function的定義如下
 <img src="https://drive.google.com/uc?export=view&id=1oKtma-My6a1saGnQR6zdFVEsz5tac_TR"  width="800" height="150">
+erf與標準常態分配的cdf之間存在以下關係，維基百科透過erf來簡化常態分配cdf函數的呈現
+<img src="https://drive.google.com/uc?export=view&id=1uo8y3dEhip9-VAzxZn6dRMjJtubn3A9j"  width="800" height="100">
 
 
 
