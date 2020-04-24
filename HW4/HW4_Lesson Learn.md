@@ -1,6 +1,7 @@
 # HW 4 Lesson learn
 
 1. 這兩周課程內容以及本次作業其實就是之前HW3 BOPM的延伸，同樣是要對選擇權的價格做定價，不過BOPM假設每一期只有兩種可能發生的情況，而本次則是假設股價會以Brownian Motion的方式遊走，未來每一期可能發生的股價會服從lognormal分配。根據這個新模擬出來的未來股價，我們就可以如同之前BOPM時定價的過程，使用Black Scholes formula和Put-Call parity去求出Call和Put的定價。
+<br />
 
 2. 在做選擇權定價的時候，我們需要用到以下三個理論(假設)：
    1) Ito process<br />
@@ -10,6 +11,7 @@
    3) 資本資產定價模型(CAPM)<br />
    將風險中立的情境擴展到更符合現實的具有超額報酬的情境，將選擇權可能產生的payoff用這個超額報酬率來折現，使得在定選擇權當期價格上能夠更符合現實。
    
+<br />
 
 3. 常態分配最原始的cdf(從pdf積分過來)可以表示成
 <img src="https://drive.google.com/uc?export=view&id=1F81cIk24hf4YJUuf4tyU3iQOsiSPxqmN"  width="800" height="280">
