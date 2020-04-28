@@ -13,7 +13,8 @@
    
 <br />
 
-3. 常態分配最原始的cdf(從pdf積分過來)可以表示成 (如果無法看到圖，請重新載入網頁，或在未顯示的圖上點滑鼠右鍵，選「載入圖片」)
+3. 常態分配最原始的cdf(從pdf積分過來)可以表示成 <br />
+(如果無法看到圖，請重新載入網頁，或在未顯示的圖上點滑鼠右鍵，選「載入圖片」)
 <img src="https://drive.google.com/uc?export=view&id=1F81cIk24hf4YJUuf4tyU3iQOsiSPxqmN"  width="800" height="280">
 而維基百科在常態分配頁面當中cdf的表時則是如下
 <img src="https://drive.google.com/uc?export=view&id=1yg4iSjg6xhVfwMKDvHKi65HPCmyykwUe"  width="800" height="150">
