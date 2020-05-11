@@ -4,4 +4,7 @@
 <p align="center">
   <img src="https://render.githubusercontent.com/render/math?math=dr=a[\theta(t)/a-r] \times dt %2B \sigma \times dz">
 </p>
-   在Vasicek model的基礎上解釋為在t期下，short rate會以a速率往均值theta(t)/a移動
+   在Vasicek model的基礎上解釋為在t期下，short rate的移動會為revert rate a(想像為速率)乘上均值theta(t)/a減去前一期的interest rate，再去加上依照volatility放大的隨機過程。
+
+<br/>
+2. 
