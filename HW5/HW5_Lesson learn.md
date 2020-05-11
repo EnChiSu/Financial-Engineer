@@ -11,4 +11,7 @@
 2. 根據此次作業的模擬，如果去調整參數做實驗，可以觀察到"reversion speed (a)"會影響long term level的interest rate，但不影響option的定價；而"volatility"會影響long term level的interest rate，但不影響option的定價；"initial interest rate"會影響long term level的interest rate以及option的定價。
 <br/>
 
-3. 蒙地卡羅模擬利用電腦的運算能力，直接模擬特定情況非常多次，在求平均，去近似實際預估計參數的期望值。
+3. 蒙地卡羅模擬利用電腦的運算能力，直接模擬特定情況非常多次，在求平均，去近似實際預估計參數的期望值。例如我們已知下圖的正方形面積，想要估計正方形中的圓面積(或某個很不好求的面積)，我們在正方形內打非常多個點，看當中有多少個點會落入這個我們預估計的圓形當中，將這個落入的比例乘上正方形面積就會近似這個圓形的面積。
+<p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math=dr=a[\theta(t)/a-r] \times dt %2B \sigma \times dz">
+</p>
