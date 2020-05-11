@@ -15,5 +15,5 @@
    (如果無法看到圖，請重新載入網頁，或在未顯示的圖上點滑鼠右鍵，選「載入圖片」)
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1v3Yt2XB1_lHJwdkt7kLDv8wZP4JJhZV8"  width="500" height="500">
+  <img src="https://drive.google.com/uc?export=view&id=1v3Yt2XB1_lHJwdkt7kLDv8wZP4JJhZV8">
 </p>
