@@ -4,4 +4,4 @@
 <p align="center">
   <img src="https://render.githubusercontent.com/render/math?math=dr=a[\theta(t)/a-r] \times dt %2B \sigma \times dz">
 </p>
-   當中<img src="https://render.githubusercontent.com/render/math?math=\theta(t)/a">
+   當中
