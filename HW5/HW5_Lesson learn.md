@@ -8,4 +8,7 @@
 <br/>
 <br/>
 
-2. 根據此次作業的模擬，可以觀察到"reversion speed(a)"會影響long term level的interest rate，但不影響option的定價；而"volatility"會影響long term level的interest rate，但不影響option的定價；"initial interest rate"會影響long term level的interest rate以及option的定價。
+2. 根據此次作業的模擬，如果去調整參數做實驗，可以觀察到"reversion speed(a)"會影響long term level的interest rate，但不影響option的定價；而"volatility"會影響long term level的interest rate，但不影響option的定價；"initial interest rate"會影響long term level的interest rate以及option的定價。
+<br/>
+
+3. 
