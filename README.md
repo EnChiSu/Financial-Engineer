@@ -1,4 +1,4 @@
-# Financial-Engineering
+# Financial Engineering
 
 This is the repository of my Financial Engineering class notes in the second semester of 2019 at NTU.
 
