@@ -10,6 +10,6 @@ You can also click links in the table below to read each file.
 
 |學習歷程|撰寫流程|打包程式碼/運作結果|
 |-------|------|-------------|
-|[Lesson Learn](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW4/HW4_Lesson%20Learn.md)|[Work Flow/Explanation](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW4/HW4_Work%20flow.ipynb)|[Package Code/Result](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW4/HW4_Package%20code.ipynb)|
+|[Lesson Learn](https://github.com/EnChiSu/Financial-Engineering/blob/master/Option%20Pricing%20with%20Brownian%20Motion/HW4_Lesson%20Learn.md)|[Work Flow/Explanation](https://github.com/EnChiSu/Financial-Engineering/blob/master/Option%20Pricing%20with%20Brownian%20Motion/HW4_Work%20flow.ipynb)|[Package Code/Result](https://github.com/EnChiSu/Financial-Engineering/blob/master/Option%20Pricing%20with%20Brownian%20Motion/HW4_Package%20code.ipynb)|
 
 
