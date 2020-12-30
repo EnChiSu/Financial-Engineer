@@ -10,4 +10,4 @@ You can also click links in the table below to read each file.
 
 |學習歷程|撰寫流程|打包程式碼/運作結果|
 |-------|------|-------------|
-|[Lesson Learn](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW2/HW2%20Learning%20Lesson.md)|[Work Flow/Explanation](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW2/HW2_Work%20flow.ipynb)|[Package Code/Result](https://github.com/EnChiSu/Financial-Engineering/blob/master/HW2/HW2_Package%20code.ipynb)|
+|[Lesson Learn](https://github.com/EnChiSu/Financial-Engineering/blob/master/Spot%20and%20Forward%20rate%20structure/HW2%20Learning%20Lesson.md)|[Work Flow/Explanation](https://github.com/EnChiSu/Financial-Engineering/blob/master/Spot%20and%20Forward%20rate%20structure/HW2_Work%20flow.ipynb)|[Package Code/Result](https://github.com/EnChiSu/Financial-Engineering/blob/master/Spot%20and%20Forward%20rate%20structure/HW2_Package%20code.ipynb)|
